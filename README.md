@@ -49,4 +49,4 @@ Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criat
 
 ### Veja o Projeto
 
-- [Visite o projeto online](https://masterclass-five.vercel.app/)
+- [Visite o projeto online](https://country-app-tau.vercel.app/)
